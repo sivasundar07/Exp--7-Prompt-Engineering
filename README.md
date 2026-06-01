@@ -58,5 +58,6 @@ Document differences and improvements.
 
 Output:
 https://drive.google.com/file/d/1FWWpdCd-X1TqM89IEqTIqtV78k8BPbq1/view?usp=sharing
+
 Result:
 Thus, the original image was successfully reproduced using prompt engineering techniques and AI image generation tools.
